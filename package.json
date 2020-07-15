@@ -1,6 +1,6 @@
 {
   "name": "pomelo",
-  "version": "2.2.7",
+  "version": "2.2.8",
   "homepage": "https://github.com/NetEase/pomelo",
   "repository": {
     "type": "git",
@@ -28,22 +28,22 @@
   ],
   "dependencies": {
     "socket.io": "2.3.0",
-    "async": "2.6.2",
+    "async": "3.2.0",
     "seq-queue": "0.0.5",
     "crc": "3.8.0",
     "cliff": "0.1.10",
     "mkdirp": "0.5.1",
     "pomelo-loader": "0.0.7",
-    "pomelo-rpc": "git://github.com/silverera/pomelo-rpc.git#v1.0.8",
+    "pomelo-rpc": "git://github.com/silverera/pomelo-rpc.git#v1.0.9",
     "pomelo-protocol": "0.1.6",
     "pomelo-admin": "git://github.com/silverera/pomelo-admin.git#v1.0.1",
     "pomelo-logger": "git://github.com/silverera/pomelo-logger.git#v0.1.8",
     "pomelo-scheduler": "git://github.com/silverera/pomelo-scheduler.git#v0.5.2",
-    "ws": "7.2.0",
-    "pomelo-protobuf": "git://github.com/silverera/pomelo-protobuf_silverera.git#8b80332c64c33780aaeda8dea6ce793e02bceab1",
+    "ws": "7.3.1",
+    "pomelo-protobuf": "git://github.com/silverera/pomelo-protobuf.git#v0.4.1",
     "node-bignumber": "1.2.1",
-    "commander": "2.19.0",
-    "mqtt": "2.18.8"
+    "commander": "6.0.0-0",
+    "mqtt": "4.1.0"
   },
   "bin": {
     "pomelo": "./bin/pomelo"
