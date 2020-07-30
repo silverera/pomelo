@@ -1,6 +1,6 @@
 {
   "name": "pomelo",
-  "version": "2.2.9",
+  "version": "2.2.10",
   "homepage": "https://github.com/NetEase/pomelo",
   "repository": {
     "type": "git",
@@ -34,7 +34,7 @@
     "cliff": "0.1.10",
     "mkdirp": "0.5.1",
     "pomelo-loader": "0.0.7",
-    "pomelo-rpc": "git://github.com/silverera/pomelo-rpc.git#v1.0.9",
+    "pomelo-rpc": "git://github.com/silverera/pomelo-rpc.git#v1.0.10",
     "pomelo-protocol": "0.1.6",
     "pomelo-admin": "git://github.com/silverera/pomelo-admin.git#v1.0.1",
     "pomelo-logger": "git://github.com/silverera/pomelo-logger.git#v0.1.8",
